@@ -1,0 +1,16 @@
+PODS:
+  - CTMediator (36)
+
+DEPENDENCIES:
+  - CTMediator
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: 918aa0afe3fa537f380a1fb15e7603a7e19fa0c4
+
+PODFILE CHECKSUM: 68db0415308912d625b6dbd9cff4148aa99ee9d3
+
+COCOAPODS: 1.9.1
